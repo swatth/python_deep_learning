@@ -1,3 +1,11 @@
+# Meed-Thii-13 iOS App: Python portion #
+
+This contains the Python code portion used for developing Meed-Thi-13 iOS app.
+
+See the app from the link below:
+
+[![Meed-Thii-13](./MeedThii13AppStore.jpg)](https://apps.apple.com/app/meed-thi-13/id1493446685)
+
 ## Instructions for porting Keras model to .mlmodel (iOS CoreML model) ##
 
 The steps here are largely the consolidation of the following:
